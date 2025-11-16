@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AndroidApps\\DB\\LocalNdistDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\services\\postgresqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\services\\postgresqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\services\\ipostgresqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\services\\ipostgresqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\services\\ilocaldatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\services\\ilocaldatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\services\\localdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\services\\localdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|e:\\androidapps\\db\\localndistdb\\localndistdb\\localndistdb\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}|LocalNdistDB\\LocalNdistDB\\LocalNdistDB.csproj|solutionrelative:localndistdb\\localndistdb\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPostgreSQLService.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Services\\IPostgreSQLService.cs",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\Services\\IPostgreSQLService.cs",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Services\\IPostgreSQLService.cs",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\Services\\IPostgreSQLService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T19:17:54.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostgreSQLService.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Services\\PostgreSQLService.cs",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\Services\\PostgreSQLService.cs",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Services\\PostgreSQLService.cs",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\Services\\PostgreSQLService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T19:17:32.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\App.xaml",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\App.xaml",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\App.xaml",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T18:22:19.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILocalDatabaseService.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Services\\ILocalDatabaseService.cs",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\Services\\ILocalDatabaseService.cs",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Services\\ILocalDatabaseService.cs",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\Services\\ILocalDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:21:56.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:24:05.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocalDatabaseService.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Services\\LocalDatabaseService.cs",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\Services\\LocalDatabaseService.cs",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Services\\LocalDatabaseService.cs",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\Services\\LocalDatabaseService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:19:26.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\App.xaml.cs",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\App.xaml.cs",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:15:35.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\MainPage.xaml.cs",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\MainPage.xaml.cs",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\MainPage.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIsAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:51:18.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\MainPage.xaml",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\MainPage.xaml",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\MainPage.xaml",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T15:50:33.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Note.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "LocalNdistDB\\LocalNdistDB\\Models\\Note.cs",
+              "ToolTip": "E:\\AndroidApps\\DB\\LocalNdistDB\\LocalNdistDB\\LocalNdistDB\\Models\\Note.cs",
+              "RelativeToolTip": "LocalNdistDB\\LocalNdistDB\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:18:01.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

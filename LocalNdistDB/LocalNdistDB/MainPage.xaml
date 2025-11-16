@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LocalNdistDB.MainPage"
+             Title="Заметки">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Добавить" Clicked="OnAddNoteClicked" />
+        <ToolbarItem Text="Подключить" Clicked="OnConnectPostgreSQLClicked" />
+    </ContentPage.ToolbarItems>
+
+    <StackLayout>
+        <!-- Статус подключения -->
+        <Label x:Name="statusLabel" 
+               Text="Загрузка..." 
+               HorizontalOptions="Center" 
+               Margin="10" 
+               FontAttributes="Bold" />
+
+        <!-- Кнопка для принудительной загрузки -->
+        <Button x:Name="loadButton" 
+                Text="Загрузить заметки" 
+                Clicked="OnLoadButtonClicked" 
+                Margin="10" />
+
+        <!-- Индикатор загрузки -->
+        <ActivityIndicator x:Name="activityIndicator" 
+                          IsVisible="False" 
+                          IsRunning="False" 
+                          HorizontalOptions="Center" />
+
+        <!-- Список заметок -->
+        <ListView x:Name="notesListView"
+                  ItemsSource="{Binding Notes}"
+                  IsPullToRefreshEnabled="True"
+                  RefreshCommand="{Binding RefreshCommand}"
+                  IsRefreshing="{Binding IsBusy}"
+                  ItemSelected="OnNoteSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10" BackgroundColor="Black" Margin="5">
+                            <Label Text="{Binding Title}" FontSize="16" FontAttributes="Bold" />
+                            <Label Text="{Binding Content}" FontSize="14" LineBreakMode="TailTruncation" />
+                            <Label Text="{Binding ModifiedDate, StringFormat='Изменено: {0:dd.MM.yyyy HH:mm}'}" 
+                                   FontSize="12" TextColor="Gray" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Сообщение если нет заметок -->
+        <Label x:Name="emptyLabel" 
+               Text="Нет заметок. Нажмите 'Добавить' чтобы создать первую заметку." 
+               IsVisible="False"
+               HorizontalOptions="Center" 
+               VerticalOptions="Center" 
+               Margin="20" 
+               HorizontalTextAlignment="Center" />
+    </StackLayout>
+</ContentPage>

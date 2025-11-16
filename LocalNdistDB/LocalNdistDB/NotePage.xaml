@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LocalNdistDB.NotePage"
+             Title="{Binding PageTitle}">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Сохранить" Clicked="OnSaveClicked" />
+        <ToolbarItem Text="Удалить" Clicked="OnDeleteClicked" />
+    </ContentPage.ToolbarItems>
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+
+            <!-- Заголовок -->
+            <Label Text="Заголовок:" FontSize="16" FontAttributes="Bold" />
+            <Entry Text="{Binding CurrentNote.Title}" 
+                   Placeholder="Введите заголовок..."
+                   FontSize="16" />
+
+            <!-- Содержание -->
+            <Label Text="Содержание:" FontSize="16" FontAttributes="Bold" />
+            <Editor Text="{Binding CurrentNote.Content}" 
+                    Placeholder="Введите содержание заметки..."
+                    AutoSize="TextChanges"
+                    HeightRequest="200"
+                    FontSize="14" />
+
+            <!-- Даты создания и изменения -->
+            <Grid ColumnDefinitions="*,*" Margin="0,10,0,0">
+                <StackLayout Grid.Column="0">
+                    <Label Text="Создано:" FontSize="12" TextColor="Gray" />
+                    <Label Text="{Binding CurrentNote.CreatedDate, StringFormat='{0:dd.MM.yyyy HH:mm}'}" 
+                           FontSize="12" TextColor="Gray" />
+                </StackLayout>
+
+                <StackLayout Grid.Column="1">
+                    <Label Text="Изменено:" FontSize="12" TextColor="Gray" />
+                    <Label Text="{Binding CurrentNote.ModifiedDate, StringFormat='{0:dd.MM.yyyy HH:mm}'}" 
+                           FontSize="12" TextColor="Gray" />
+                </StackLayout>
+            </Grid>
+
+            <!-- Индикатор загрузки -->
+            <ActivityIndicator IsVisible="{Binding IsBusy}" IsRunning="{Binding IsBusy}" />
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
