@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="clientMobilka.MainPage"
+             Title="Database Client">
+
+    <StackLayout Padding="10">
+        <Label Text="Database Client" 
+               FontSize="Title" 
+               HorizontalOptions="Center" 
+               Margin="0,0,0,10"/>
+
+        <Frame BackgroundColor="Black" Padding="15" Margin="0,0,0,10">
+            <StackLayout>
+                <Label Text="Table Name" FontAttributes="Bold" FontSize="16"/>
+                <Entry x:Name="tableNameEntry" 
+                       Placeholder="Enter table name (e.g., users, products)" 
+                       Text="users"
+                       Margin="0,5,0,0"/>
+
+                <Button Text="Load Data" 
+                        Clicked="OnLoadDataClicked"
+                        BackgroundColor="#2196F3"
+                        TextColor="White"
+                        CornerRadius="10"
+                        Margin="0,10,0,0"
+                        HeightRequest="40"/>
+            </StackLayout>
+        </Frame>
+
+        <ActivityIndicator x:Name="loadingIndicator"
+                          IsVisible="False"
+                          IsRunning="False"
+                          Color="#2196F3"
+                          VerticalOptions="Center"
+                          HorizontalOptions="Center"/>
+
+        <Label x:Name="statusLabel"
+               Text="Enter table name and click 'Load Data'"
+               FontSize="14"
+               TextColor="Gray"
+               HorizontalOptions="Center"
+               Margin="0,5,0,10"/>
+
+        <CollectionView x:Name="dataCollectionView"
+                       VerticalOptions="FillAndExpand">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BackgroundColor="{Binding BackgroundColor}"
+                           BorderColor="{Binding BorderColor}"
+                           Padding="10"
+                           Margin="2"
+                           CornerRadius="5">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0" 
+                                   Text="{Binding Column1}" 
+                                   FontAttributes="{Binding FontAttributes}"
+                                   FontSize="{Binding FontSize}"
+                                   TextColor="{Binding TextColor}"
+                                   LineBreakMode="TailTruncation"/>
+                            <Label Grid.Column="1" 
+                                   Text="{Binding Column2}" 
+                                   FontAttributes="{Binding FontAttributes}"
+                                   FontSize="{Binding FontSize}"
+                                   TextColor="{Binding TextColor}"
+                                   LineBreakMode="TailTruncation"/>
+                            <Label Grid.Column="2" 
+                                   Text="{Binding Column3}" 
+                                   FontAttributes="{Binding FontAttributes}"
+                                   FontSize="{Binding FontSize}"
+                                   TextColor="{Binding TextColor}"
+                                   LineBreakMode="TailTruncation"/>
+                            <Label Grid.Column="3" 
+                                   Text="{Binding Column4}" 
+                                   FontAttributes="{Binding FontAttributes}"
+                                   FontSize="{Binding FontSize}"
+                                   TextColor="{Binding TextColor}"
+                                   LineBreakMode="TailTruncation"/>
+                            <Label Grid.Column="4" 
+                                   Text="{Binding Column5}" 
+                                   FontAttributes="{Binding FontAttributes}"
+                                   FontSize="{Binding FontSize}"
+                                   TextColor="{Binding TextColor}"
+                                   LineBreakMode="TailTruncation"/>
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

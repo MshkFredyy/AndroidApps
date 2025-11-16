@@ -1,0 +1,15 @@
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\bin\Debug\netstandard2.0\clientMobilka.deps.json
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\bin\Debug\netstandard2.0\clientMobilka.dll
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\bin\Debug\netstandard2.0\ref\clientMobilka.dll
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\bin\Debug\netstandard2.0\clientMobilka.pdb
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\clientMobilka.csproj.AssemblyReference.cache
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\clientMobilka.GeneratedMSBuildEditorConfig.editorconfig
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\clientMobilka.AssemblyInfoInputs.cache
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\clientMobilka.AssemblyInfo.cs
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\clientMobilka.csproj.CoreCompileInputs.cache
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\XamlC.stamp
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\clientMobilka.dll
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\refint\clientMobilka.dll
+E:\AndroidApps\DB\clientMobilka\clientMobilka\clientMobilka\obj\Debug\netstandard2.0\clientMobilka.pdb
