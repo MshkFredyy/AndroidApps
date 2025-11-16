@@ -1,0 +1,16 @@
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\bin\Debug\netstandard2.0\LocalNdistDB.deps.json
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\bin\Debug\netstandard2.0\LocalNdistDB.dll
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\bin\Debug\netstandard2.0\ref\LocalNdistDB.dll
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\bin\Debug\netstandard2.0\LocalNdistDB.pdb
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\LocalNdistDB.csproj.AssemblyReference.cache
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\LocalNdistDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\LocalNdistDB.AssemblyInfoInputs.cache
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\LocalNdistDB.AssemblyInfo.cs
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\LocalNdistDB.csproj.CoreCompileInputs.cache
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\XamlC.stamp
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\LocalNdistDB.dll
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\refint\LocalNdistDB.dll
+E:\AndroidApps\DB\LocalNdistDB\LocalNdistDB\LocalNdistDB\obj\Debug\netstandard2.0\LocalNdistDB.pdb

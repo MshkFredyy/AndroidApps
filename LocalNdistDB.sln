@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalNdistDB.Android", "LocalNdistDB\LocalNdistDB.Android\LocalNdistDB.Android.csproj", "{48414696-5B43-4D66-8350-B1222F8E7442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalNdistDB", "LocalNdistDB\LocalNdistDB\LocalNdistDB.csproj", "{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48414696-5B43-4D66-8350-B1222F8E7442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48414696-5B43-4D66-8350-B1222F8E7442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48414696-5B43-4D66-8350-B1222F8E7442}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{48414696-5B43-4D66-8350-B1222F8E7442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48414696-5B43-4D66-8350-B1222F8E7442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48414696-5B43-4D66-8350-B1222F8E7442}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3957435C-53A5-49EA-9BC1-F8C2A10FAE7C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DCF3765-A07E-4DC2-AFD8-DE2F0D825CFD}
+	EndGlobalSection
+EndGlobal
