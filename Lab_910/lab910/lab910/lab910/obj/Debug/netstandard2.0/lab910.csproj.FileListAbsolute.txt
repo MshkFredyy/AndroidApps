@@ -1,0 +1,15 @@
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\bin\Debug\netstandard2.0\lab910.deps.json
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\bin\Debug\netstandard2.0\lab910.dll
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\bin\Debug\netstandard2.0\ref\lab910.dll
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\bin\Debug\netstandard2.0\lab910.pdb
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\lab910.csproj.AssemblyReference.cache
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\lab910.GeneratedMSBuildEditorConfig.editorconfig
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\lab910.AssemblyInfoInputs.cache
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\lab910.AssemblyInfo.cs
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\lab910.csproj.CoreCompileInputs.cache
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\XamlC.stamp
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\lab910.dll
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\refint\lab910.dll
+E:\AndroidApps\Lab_910\lab910\lab910\lab910\obj\Debug\netstandard2.0\lab910.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Geo.MainPage"
+             Title="Mapsui Карта">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Информация о местоположении -->
+        <Frame Grid.Row="0" 
+               BackgroundColor="#2C3E50" 
+               Padding="15" 
+               Margin="10" 
+               CornerRadius="10">
+            <Label x:Name="LocationLabel" 
+                   Text="Загрузка карты..."
+                   HorizontalOptions="Center"
+                   FontSize="14"
+                   TextColor="White"
+                   HorizontalTextAlignment="Center"/>
+        </Frame>
+
+        <!-- Контейнер для карты Mapsui -->
+        <Grid x:Name="MapContainer" Grid.Row="1" />
+
+        <!-- Кнопки управления -->
+        <StackLayout Grid.Row="2" 
+                     Orientation="Horizontal" 
+                     HorizontalOptions="Center"
+                     Margin="10"
+                     Spacing="10">
+
+            <Button x:Name="GetLocationBtn" 
+                    Text="📍 Моё местоположение"
+                    BackgroundColor="#3498DB"
+                    TextColor="White"
+                    CornerRadius="20"
+                    Padding="20,12"
+                    Clicked="GetLocationBtn_Clicked"/>
+
+            <Button x:Name="ZoomInBtn" 
+                    Text="➕"
+                    BackgroundColor="#34495E"
+                    TextColor="White"
+                    WidthRequest="50"
+                    HeightRequest="50"
+                    CornerRadius="25"
+                    Clicked="ZoomInBtn_Clicked"/>
+
+            <Button x:Name="ZoomOutBtn" 
+                    Text="➖"
+                    BackgroundColor="#34495E"
+                    TextColor="White"
+                    WidthRequest="50"
+                    HeightRequest="50"
+                    CornerRadius="25"
+                    Clicked="ZoomOutBtn_Clicked"/>
+        </StackLayout>
+    </Grid>
+</ContentPage>

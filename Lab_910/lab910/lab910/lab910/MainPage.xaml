@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lab910.MainPage"
+             Title="Датчики устройства">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+
+            <!-- Освещенность -->
+            <Frame BackgroundColor="#2196F3" CornerRadius="10">
+                <StackLayout>
+                    <Label Text="ДАТЧИК ОСВЕЩЕННОСТИ" 
+                           TextColor="White" 
+                           FontSize="16" 
+                           FontAttributes="Bold"/>
+                    <Label x:Name="LightLabel" 
+                           Text="Освещенность: ---" 
+                           TextColor="White" 
+                           FontSize="14"/>
+                    <StackLayout Orientation="Horizontal" Spacing="10">
+                        <Button x:Name="StartLightBtn" 
+                                Text="Старт" 
+                                Clicked="StartLight_Clicked"
+                                BackgroundColor="White"
+                                TextColor="#2196F3"/>
+                        <Button x:Name="StopLightBtn" 
+                                Text="Стоп" 
+                                Clicked="StopLight_Clicked"
+                                BackgroundColor="White"
+                                TextColor="#2196F3"
+                                IsEnabled="False"/>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+            <!-- Акселерометр -->
+            <Frame BackgroundColor="#4CAF50" CornerRadius="10">
+                <StackLayout>
+                    <Label Text="АКСЕЛЕРОМЕТР" 
+                           TextColor="White" 
+                           FontSize="16" 
+                           FontAttributes="Bold"/>
+                    <Label x:Name="AccelLabel" 
+                           Text="X: ---, Y: ---, Z: ---" 
+                           TextColor="White" 
+                           FontSize="14"/>
+                    <StackLayout Orientation="Horizontal" Spacing="10">
+                        <Button x:Name="StartAccelBtn" 
+                                Text="Старт" 
+                                Clicked="StartAccel_Clicked"
+                                BackgroundColor="White"
+                                TextColor="#4CAF50"/>
+                        <Button x:Name="StopAccelBtn" 
+                                Text="Стоп" 
+                                Clicked="StopAccel_Clicked"
+                                BackgroundColor="White"
+                                TextColor="#4CAF50"
+                                IsEnabled="False"/>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+            <!-- Датчик приближения -->
+            <Frame BackgroundColor="#FF9800" CornerRadius="10">
+                <StackLayout>
+                    <Label Text="ДАТЧИК ПРИБЛИЖЕНИЯ" 
+                           TextColor="White" 
+                           FontSize="16" 
+                           FontAttributes="Bold"/>
+                    <Label x:Name="ProximityLabel" 
+                           Text="Расстояние: ---" 
+                           TextColor="White" 
+                           FontSize="14"/>
+                    <StackLayout Orientation="Horizontal" Spacing="10">
+                        <Button x:Name="StartProximityBtn" 
+                                Text="Старт" 
+                                Clicked="StartProximity_Clicked"
+                                BackgroundColor="White"
+                                TextColor="#FF9800"/>
+                        <Button x:Name="StopProximityBtn" 
+                                Text="Стоп" 
+                                Clicked="StopProximity_Clicked"
+                                BackgroundColor="White"
+                                TextColor="#FF9800"
+                                IsEnabled="False"/>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+            <!-- Кнопка уведомления -->
+            <Frame BackgroundColor="#9C27B0" CornerRadius="10">
+                <StackLayout>
+                    <Label Text="УВЕДОМЛЕНИЕ" 
+                           TextColor="White" 
+                           FontSize="16" 
+                           FontAttributes="Bold"/>
+                    <Button x:Name="NotificationBtn" 
+                            Text="Отправить уведомление" 
+                            Clicked="SendNotification_Clicked"
+                            BackgroundColor="White"
+                            TextColor="#9C27B0"/>
+                </StackLayout>
+            </Frame>
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

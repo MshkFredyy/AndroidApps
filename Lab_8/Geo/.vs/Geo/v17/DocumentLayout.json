@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AndroidApps\\Lab_8\\Geo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC53E96-AE8E-4545-A6ED-E551CF64D072}|Geo\\Geo\\Geo.csproj|e:\\androidapps\\lab_8\\geo\\geo\\geo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC53E96-AE8E-4545-A6ED-E551CF64D072}|Geo\\Geo\\Geo.csproj|solutionrelative:geo\\geo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC53E96-AE8E-4545-A6ED-E551CF64D072}|Geo\\Geo\\Geo.csproj|e:\\androidapps\\lab_8\\geo\\geo\\geo\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3AC53E96-AE8E-4545-A6ED-E551CF64D072}|Geo\\Geo\\Geo.csproj|solutionrelative:geo\\geo\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE817A6C-D3F5-432A-B78A-4259978B0C10}|Geo\\Geo.Android\\Geo.Android.csproj|e:\\androidapps\\lab_8\\geo\\geo\\geo.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE817A6C-D3F5-432A-B78A-4259978B0C10}|Geo\\Geo.Android\\Geo.Android.csproj|solutionrelative:geo\\geo.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\Lab_8\\Geo\\Geo\\Geo\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Geo\\Geo\\MainPage.xaml.cs",
+              "ToolTip": "E:\\AndroidApps\\Lab_8\\Geo\\Geo\\Geo\\MainPage.xaml.cs",
+              "RelativeToolTip": "Geo\\Geo\\MainPage.xaml.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAD4vy0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:01:55.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "E:\\AndroidApps\\Lab_8\\Geo\\Geo\\Geo.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Geo\\Geo.Android\\MainActivity.cs",
+              "ToolTip": "E:\\AndroidApps\\Lab_8\\Geo\\Geo\\Geo.Android\\MainActivity.cs",
+              "RelativeToolTip": "Geo\\Geo.Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:21:50.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\AndroidApps\\Lab_8\\Geo\\Geo\\Geo\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Geo\\Geo\\MainPage.xaml",
+              "ToolTip": "E:\\AndroidApps\\Lab_8\\Geo\\Geo\\Geo\\MainPage.xaml",
+              "RelativeToolTip": "Geo\\Geo\\MainPage.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T12:20:14.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

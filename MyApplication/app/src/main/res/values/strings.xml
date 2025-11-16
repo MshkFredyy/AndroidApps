@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="settings">Настройки</string>
+    <string name="photo">Выбрать фото</string>
+    <string name="contacts">Разрешение: Контакты</string>
+    <string name="gallery">Разрешение: Галерея</string>
+    <string name="back2MainMenu">Назад</string>
+    <string name="notif">Разрешение: Уведомления</string>
+    <string name="geopos">Геоданные</string>
+</resources>

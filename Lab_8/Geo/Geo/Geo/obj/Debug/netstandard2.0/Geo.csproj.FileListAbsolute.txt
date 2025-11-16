@@ -1,0 +1,15 @@
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\bin\Debug\netstandard2.0\Geo.deps.json
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\bin\Debug\netstandard2.0\Geo.dll
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\bin\Debug\netstandard2.0\ref\Geo.dll
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\bin\Debug\netstandard2.0\Geo.pdb
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\Geo.csproj.AssemblyReference.cache
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\Geo.GeneratedMSBuildEditorConfig.editorconfig
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\Geo.AssemblyInfoInputs.cache
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\Geo.AssemblyInfo.cs
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\Geo.csproj.CoreCompileInputs.cache
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\XamlC.stamp
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\Geo.dll
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\refint\Geo.dll
+E:\AndroidApps\Lab_8\Geo\Geo\Geo\obj\Debug\netstandard2.0\Geo.pdb
